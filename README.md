@@ -1,14 +1,14 @@
 The most relevant and up-to-date links in the Open Libra (0LNetwork) project
 
 # Main Website
-- [Open Libra](https://openlibra.io) (formerly: https://0L.network)
+- [OpenLibra.io](https://openlibra.io) (formerly: https://0L.network)
 
 # Explorer
-- [0L Explorer](https://0l.fyi/)
+- [0L.fyi](https://0l.fyi/)
 - [Libra World](https://libra-world.vercel.app/order-book)
 
 # Documentation
-- [Open Libra Docs](https://docs.openlibra.io) (also accessible from [openlibra.dev](https://openlibra.dev) and [0lnetwork.dev](https://0lnetwork.dev))
+- [docs.openlibra.io](https://docs.openlibra.io) (also accessible from [openlibra.dev](https://openlibra.dev) and [0lnetwork.dev](https://0lnetwork.dev))
 
 # GitHub
 - [0L Network Community Repositories](https://github.com/0LNetworkCommunity)
@@ -20,17 +20,17 @@ The most relevant and up-to-date links in the Open Libra (0LNetwork) project
   - [Download Carpe for Debian](https://github.com/0LNetworkCommunity/carpe/releases/download/v1.0.11/carpe_1.0.11_amd64.deb)
 
 # Community
-- Contributors: [Discord](https://discord.gg/0lnetwork)
-- Telegram group: [0L Network Community Group](https://t.me/olnetworkcommunity)
-- Telegram channel: [0L Network Channel](https://t.me/olnetwork)
-- X Community: [0L Network Community](https://x.com/i/communities/1796274039238926832)
+- Contributors on Discord: https://discord.gg/0lnetwork
+- Telegram group: https://t.me/olnetworkcommunity
+- Telegram channel: https://t.me/olnetwork
+- X Community: https://x.com/i/communities/1796274039238926832
 
 # X (Twitter)
 - [0LNetworkCommunity](https://x.com/0LNetwork)
 - [0tt0](https://x.com/0x0tt0x0)
 
 # CoinGecko
-- [0L Network on CoinGecko](https://www.coingecko.com/en/coins/0l-network)
+- https://www.coingecko.com/en/coins/0l-network
 
 # Market Venues 
 - Trading is possible on two DEXs at the moment, Osmosis and Uniswap V3 (Base).
@@ -52,4 +52,4 @@ The most relevant and up-to-date links in the Open Libra (0LNetwork) project
 - Tutorial: COMING SOON
 
 # Visual History of the Project
-- [Open Libra History](https://paragraph.xyz/@0xzoz/open-libra-history)
+- https://paragraph.xyz/@0xzoz/open-libra-history

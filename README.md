@@ -2,7 +2,7 @@ The most relevant and up to date links in the Open Libra (0LNetwork) project
 
 # Main Website
 
-- [https://www.openlibra.io](https://www.openlibra.io) (formerly: [https://www.0L.network](https://www.0L.network))
+- [https://www.openlibra.io](https://www.openlibra.io) (formerly: https://www.0L.network)
 
 # Explorer
 

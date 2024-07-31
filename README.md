@@ -2,7 +2,7 @@ The most relevant and up to date links in the Open Libra (0LNetwork) project
 
 # Main Website
 
-- [https://www.openlibra.io](https://www.openlibra.io) (formerly: https://www.0L.network)
+- [https://www.openlibra.io](https://www.openlibra.io) (formerly: 0L.network)
 
 # Explorer
 
@@ -60,7 +60,7 @@ The most relevant and up to date links in the Open Libra (0LNetwork) project
 - DexTools: [https://www.dextools.io/app/en/base/pair-explorer/0x809e62a0abe226853ffdb9e362afbbbb870b59eb?t=1722286796997](https://www.dextools.io/app/en/base/pair-explorer/0x809e62a0abe226853ffdb9e362afbbbb870b59eb?t=1722286796997)
 - CoinMarketCap: [https://coinmarketcap.com/dexscan/base/0x809e62a0abe226853ffdb9e362afbbbb870b59eb/](https://coinmarketcap.com/dexscan/base/0x809e62a0abe226853ffdb9e362afbbbb870b59eb/)
 - CoinGecko: [https://www.geckoterminal.com/base/pools/0x809e62a0abe226853ffdb9e362afbbbb870b59eb](https://www.geckoterminal.com/base/pools/0x809e62a0abe226853ffdb9e362afbbbb870b59eb)
-- Tutorial: COMINGSOON
+- Tutorial: [https://medium.com/@grassy.gmbh/how-to-use-the-libra-bridge-on-base-7c4ca24d6f0c](https://medium.com/@grassy.gmbh/how-to-use-the-libra-bridge-on-base-7c4ca24d6f0c)
 
 # Visual history of the project
 

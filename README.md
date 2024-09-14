@@ -8,6 +8,7 @@ The most relevant and up to date links in the Open Libra (0LNetwork) project
 
 - [https://0l.fyi/](https://0l.fyi/)
 - [https://libra-world.vercel.app/order-book](https://libra-world.vercel.app/order-book)
+- [https://0o-de-lally.github.io/libra-status/](https://0o-de-lally.github.io/libra-status/)
 
 # Documentation
 

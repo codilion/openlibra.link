@@ -1,4 +1,4 @@
-The most relevant and up to date links in the Open Libra (0LNetwork) project
+The most relevant and up to date links in the OpenLibra (0LNetwork) project
 
 # Main Website
 
@@ -12,7 +12,7 @@ The most relevant and up to date links in the Open Libra (0LNetwork) project
 
 # Documentation
 
-- [https://docs.openlibra.io](https://docs.openlibra.io) (also accessible from [https://openlibra.dev](https://openlibra.dev) and [https://0lnetwork.dev](https://0lnetwork.dev))
+- [https://docs.openlibra.io](https://docs.openlibra.io) (also accessible from [https://openlibra.dev](https://openlibra.dev))
 
 # GitHub Repository
 

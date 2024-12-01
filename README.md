@@ -63,6 +63,6 @@ The most relevant and up to date links in the OpenLibra (0LNetwork) project
 - CoinGecko: [https://www.geckoterminal.com/base/pools/0x809e62a0abe226853ffdb9e362afbbbb870b59eb](https://www.geckoterminal.com/base/pools/0x809e62a0abe226853ffdb9e362afbbbb870b59eb)
 - Tutorial: [https://medium.com/@grassy.gmbh/how-to-use-the-libra-bridge-on-base-7c4ca24d6f0c](https://medium.com/@grassy.gmbh/how-to-use-the-libra-bridge-on-base-7c4ca24d6f0c)
 
-# Visual history of the project
+# Visual History Of The Project
 
 - [https://paragraph.xyz/@0xzoz/open-libra-history](https://paragraph.xyz/@0xzoz/open-libra-history)

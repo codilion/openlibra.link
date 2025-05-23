@@ -27,7 +27,7 @@ The most relevant and up to date links in the OpenLibra (0LNetwork) project
 
 # Community
 
-- Contributors on Discord (+11k members): [https://discord.gg/0lnetwork](https://discord.gg/0lnetwork)
+- Contributors on Discord (+11k members): [https://discord.gg/52BdUPce3R](https://discord.gg/52BdUPce3R)
 - Telegram group: [https://t.me/olnetworkcommunity](https://t.me/olnetworkcommunity)
 - Telegram channel: [https://t.me/olnetwork](https://t.me/olnetwork)
 - X Community: [https://x.com/i/communities/1796274039238926832](https://x.com/i/communities/1796274039238926832)

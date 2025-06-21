@@ -37,7 +37,7 @@ The most relevant and up to date links in the OpenLibra (0LNetwork) project
 
 **LAToken**:
 
-[[https://scan.openlibra.io/](https://latoken.com/exchange/LBR_USDT)]([https://scan.openlibra.io/](https://latoken.com/exchange/LBR_USDT))
+[https://latoken.com/exchange/LBR_USDT](https://latoken.com/exchange/LBR_USDT)
 
 
 # Visual History Of The Project

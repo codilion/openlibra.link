@@ -2,13 +2,11 @@ The most relevant and up to date links in the OpenLibra (0LNetwork) project
 
 # Main Website
 
-- [https://www.openlibra.io](https://www.openlibra.io) (formerly: 0L.network)
+- [https://www.openlibra.io](https://www.openlibra.io)
 
 # Explorer
 
-- [https://0l.fyi/](https://0l.fyi/)
-- [https://libra-world.vercel.app/order-book](https://libra-world.vercel.app/order-book)
-- [https://0o-de-lally.github.io/libra-status/](https://0o-de-lally.github.io/libra-status/)
+- [https://scan.openlibra.io/](https://scan.openlibra.io/)
 
 # Documentation
 
@@ -21,15 +19,10 @@ The most relevant and up to date links in the OpenLibra (0LNetwork) project
 # Wallet
 
 - **Carpe** - A desktop self-custody wallet application, works on Windows, MacOS and Linux: [https://github.com/0LNetworkCommunity/carpe/releases](https://github.com/0LNetworkCommunity/carpe/releases)
-- Download Carpe for Windows: [https://github.com/0LNetworkCommunity/carpe/releases/download/v1.0.11/carpe_1.0.11_x64_en-US.msi](https://github.com/0LNetworkCommunity/carpe/releases/download/v1.0.11/carpe_1.0.11_x64_en-US.msi)
-- Download Carpe for MacOS: [https://github.com/0LNetworkCommunity/carpe/releases/download/v1.0.11/carpe_1.0.11_x64.dmg](https://github.com/0LNetworkCommunity/carpe/releases/download/v1.0.11/carpe_1.0.11_x64.dmg)
-- Download Carpe for Debian: [https://github.com/0LNetworkCommunity/carpe/releases/download/v1.0.11/carpe_1.0.11_amd64.deb](https://github.com/0LNetworkCommunity/carpe/releases/download/v1.0.11/carpe_1.0.11_amd64.deb)
 
 # Community
 
 - Contributors on Discord (+11k members): [https://discord.gg/52BdUPce3R](https://discord.gg/52BdUPce3R)
-- Telegram group: [https://t.me/olnetworkcommunity](https://t.me/olnetworkcommunity)
-- Telegram channel: [https://t.me/olnetwork](https://t.me/olnetwork)
 - X Community: [https://x.com/i/communities/1796274039238926832](https://x.com/i/communities/1796274039238926832)
 
 # X (Twitter)
@@ -39,29 +32,13 @@ The most relevant and up to date links in the OpenLibra (0LNetwork) project
 
 # CoinGecko
 
-- [https://www.coingecko.com/en/coins/0l-network](https://www.coingecko.com/en/coins/0l-network)
 
 # Market venues
 
-- Trading is possible on two DEXs at the moment, Osmosis and Uniswap V3 (Base).
-- **You can use the [https://librabridge.com/](https://librabridge.com/) developed by the [0LSwap](https://0lswap.com/) team:**
-  - Note: 0LSwap.com OTC exchange has retired with the introduction of the new bridges.
+**LAToken**:
 
-## Osmosis Bridge
+[[https://scan.openlibra.io/](https://latoken.com/exchange/LBR_USDT)]([https://scan.openlibra.io/](https://latoken.com/exchange/LBR_USDT))
 
-- Osmosis: [https://app.osmosis.zone/?to=USDC&from=wLIBRA](https://app.osmosis.zone/?to=USDC&from=wLIBRA)
-- CoinHall: [https://coinhall.org/osmosis/osmo1v5xc90l0qngwsp9s0dkvcxkfnmgcqrspxsw656wspvp67d6sc88s9aj2r8](https://coinhall.org/osmosis/osmo1v5xc90l0qngwsp9s0dkvcxkfnmgcqrspxsw656wspvp67d6sc88s9aj2r8)
-- Tutorial: [https://medium.com/@teisnilsson/how-to-use-the-libra-bridge-on-osmosis-ce316b45f686](https://medium.com/@teisnilsson/how-to-use-the-libra-bridge-on-osmosis-ce316b45f686)
-- Dollar Cost Averaging tool on Osmosis: [https://calculated.fi/](https://calculated.fi/)
-
-## Base Bridge
-
-- Uniswap V3: [https://app.uniswap.org/explore/pools/base/0x809E62A0Abe226853fFdB9E362AFbBbB870B59eb](https://app.uniswap.org/explore/pools/base/0x809E62A0Abe226853fFdB9E362AFbBbB870B59eb)
-- DexScreener: [https://dexscreener.com/base/0x809e62a0abe226853ffdb9e362afbbbb870b59eb](https://dexscreener.com/base/0x809e62a0abe226853ffdb9e362afbbbb870b59eb)
-- DexTools: [https://www.dextools.io/app/en/base/pair-explorer/0x809e62a0abe226853ffdb9e362afbbbb870b59eb?t=1722286796997](https://www.dextools.io/app/en/base/pair-explorer/0x809e62a0abe226853ffdb9e362afbbbb870b59eb?t=1722286796997)
-- CoinMarketCap: [https://coinmarketcap.com/dexscan/base/0x809e62a0abe226853ffdb9e362afbbbb870b59eb/](https://coinmarketcap.com/dexscan/base/0x809e62a0abe226853ffdb9e362afbbbb870b59eb/)
-- CoinGecko: [https://www.geckoterminal.com/base/pools/0x809e62a0abe226853ffdb9e362afbbbb870b59eb](https://www.geckoterminal.com/base/pools/0x809e62a0abe226853ffdb9e362afbbbb870b59eb)
-- Tutorial: [https://medium.com/@grassy.gmbh/how-to-use-the-libra-bridge-on-base-7c4ca24d6f0c](https://medium.com/@grassy.gmbh/how-to-use-the-libra-bridge-on-base-7c4ca24d6f0c)
 
 # Visual History Of The Project
 
